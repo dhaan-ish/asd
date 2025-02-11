@@ -1,4 +1,4 @@
-const element = document.querySelector(".monaco-scrollable-element.editor-scrollable.vs-dark");
+const element = document.querySelector(".view-lines.monaco-mouse-cursor-text");
 if (element) {
     element.style.opacity = "0";
 }
